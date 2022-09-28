@@ -1,0 +1,1 @@
+Smartwatch page with product information animation
